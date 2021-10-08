@@ -1,0 +1,45 @@
+baseURL = 'https://example.com'
+languageCode = 'es-es'
+title = 'Asesino de Reyes'
+theme = 'ananke'
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[menu]
+  [[menu.main]]
+	identifier = "contacto"
+	name = "Contacto"
+	title = "Contacto"
+	url = "/posts/contacto/"
+	weight = 4
+	[[menu.main]]
+	identifier = "buscar"
+	name = "Busqueda"
+	title = "Busqueda"
+	url = "/posts/buscar/"
+	weight = 3
+	[[menu.main]]
+	identifier = "posts"
+	name = "Posts"
+	title = "Posts"
+	url = "/posts/"
+	weight = 2
+	[[menu.main]]
+	identifier = "libros"
+	name = "Libros"
+	title = "Libros"
+	url = "/libros/"
+	weight = 1
+	[[menu.main]]
+	identifier = "noticias"
+	name = "Noticias"
+	title = "Noticias"
+	url = "/noticias/"
+	weight = 6
+	
+	
+
+[params]
+    featured_image="/img/header-books.jpg"
+	twitter = "https://twitter.com/"

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Asesino de Reyes</title>
+    <link>https://example.com/posts/</link>
+    <description>Recent content in Posts on Asesino de Reyes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contacto</title>
+      <link>https://example.com/posts/contacto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/contacto/</guid>
+      <description> Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+    <item>
+      <title>Patrick Rothfuss</title>
+      <link>https://example.com/posts/autor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/autor/</guid>
+      <description>Patrick James Rothfuss (nacido el 6 de junio de 1973) es un escritor estadounidense de fantasía y profesor adjunto de literatura y filología inglesa en la Universidad de Wisconsin. Es el autor de la serie Crónica del asesino de reyes, que fue rechazada por varias editoriales antes de que el primer libro de la serie El nombre del viento fuese publicado en el año 2007. Obtuvo muy buenas críticas y se convirtió en un éxito de ventas.</description>
+    </item>
+    
+    <item>
+      <title>Página de búsqueda</title>
+      <link>https://example.com/posts/buscar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/buscar/</guid>
+      <description>Introduce aquí tus consultas o tus intereses de búsqueda en la página:</description>
+    </item>
+    
+  </channel>
+</rss>

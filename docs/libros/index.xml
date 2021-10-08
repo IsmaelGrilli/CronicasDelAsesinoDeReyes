@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Libros on Asesino de Reyes</title>
+    <link>https://example.com/libros/</link>
+    <description>Recent content in Libros on Asesino de Reyes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language><atom:link href="https://example.com/libros/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Nombre Del Viento</title>
+      <link>https://example.com/libros/elnombredelviento/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/libros/elnombredelviento/</guid>
+      <description>«He robado princesas a reyes agónicos. Incendié la ciudad de Trebon. He pasado la noche con Felurian y he despertado vivo y cuerdo. Me expulsaron de la Universidad a una edad a la que a la mayoría todavía no los dejan entrar. He recorrido de noche caminos de los que otros no se atreven a hablar ni siquiera de día. He hablado con dioses, he amado a mujeres y he escrito canciones que hacen llorar a los bardos.</description>
+    </item>
+    
+    <item>
+      <title>El Temor de un Hombre Sabio</title>
+      <link>https://example.com/libros/eltemordeunhombresabio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/libros/eltemordeunhombresabio/</guid>
+      <description>«Amanece en la posada Roca de Guía. Es el segundo día, y un hombre se dispone a proseguir el relato de su vida. Su verdadera historia, la que únicamente él conoce, alejada de la leyenda que le han forjado los rumores, las conjeturas y los cuentos de taberna que han acabado convirtiéndole en un personaje mítico: Kvothe&amp;hellip; músico, mendigo, ladrón, estudiante, mago, héroe y asesino»</description>
+    </item>
+    
+    <item>
+      <title>La Música del Silencio</title>
+      <link>https://example.com/libros/lamusicadelsilencio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/libros/lamusicadelsilencio/</guid>
+      <description>«La Universidad, el bastión del conocimiento, atrae a las mentes más brillantes, que acuden para aprender los misterios de ciencias como la artificería y la alquimia. Sin embargo, bajo esos edificios y sus concurridas aulas existe un mundo en penumbra, cuya existencia sólo unos pocos conocen.
+En ese laberinto de túneles antiguos, de salas y habitaciones abandonadas, de escaleras serpenteantes y pasillos semiderruidos vive Auri. Tiempo atrás fue alumna de la Universidad.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.com/categories/</loc>
+  </url><url>
+    <loc>https://example.com/posts/contacto/</loc>
+  </url><url>
+    <loc>https://example.com/noticias/noticia1/</loc>
+  </url><url>
+    <loc>https://example.com/libros/elnombredelviento/</loc>
+  </url><url>
+    <loc>https://example.com/libros/eltemordeunhombresabio/</loc>
+  </url><url>
+    <loc>https://example.com/libros/lamusicadelsilencio/</loc>
+  </url><url>
+    <loc>https://example.com/libros/</loc>
+  </url><url>
+    <loc>https://example.com/noticias/</loc>
+  </url><url>
+    <loc>https://example.com/posts/autor/</loc>
+  </url><url>
+    <loc>https://example.com/posts/</loc>
+  </url><url>
+    <loc>https://example.com/posts/buscar/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>https://example.com/</loc>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+  </url>
+</urlset>
