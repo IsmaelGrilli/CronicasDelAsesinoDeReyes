@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Noticias on Asesino de Reyes</title>
-    <link>https://example.com/noticias/</link>
+    <link>https://github.com/IsmaelGrilli/CronicasDelAsesinoDeReyes.git/noticias/</link>
     <description>Recent content in Noticias on Asesino de Reyes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language><atom:link href="https://example.com/noticias/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-es</language><atom:link href="https://github.com/IsmaelGrilli/CronicasDelAsesinoDeReyes.git/noticias/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>El libro sigue sin salir</title>
-      <link>https://example.com/noticias/noticia1/</link>
+      <link>https://github.com/IsmaelGrilli/CronicasDelAsesinoDeReyes.git/noticias/noticia1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/noticias/noticia1/</guid>
+      <guid>https://github.com/IsmaelGrilli/CronicasDelAsesinoDeReyes.git/noticias/noticia1/</guid>
       <description>El libro sigue sin salir Después de casi 11 años, la tercera entrega de la saga continua sin salir</description>
     </item>
     
